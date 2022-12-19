@@ -259,14 +259,14 @@ body {
 		margin-top: 20px;
 	}
 
-	.rule {
+	#rule {
 		bottom: 10px;
 		right: 65px;
 	}
 }
 
 @media only screen and (max-height: 520px) {
-	.rule {
+	#rule {
 		position: static;
 		width: fit-content;
 		margin-top: 10px;
